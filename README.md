@@ -27,7 +27,7 @@ In addition, implementing a RegExp machine might be a non-trivial task, so build
 
 ## Assignments
 
-Assignments are implemented in Node.js. After installing, you can test and run e.g. as:
+Assignments are implemented in [Node.js](https://nodejs.org/en/). After installing, you can test and run e.g. as:
 
 ```
 node assignments/State.js
@@ -35,4 +35,6 @@ node assignments/State.js
 > All assertions passed!
 ```
 
-- [Implement FA State class](https://github.com/DmitrySoshnikov/at-regexp-machine/tree/master/assignments/State.js)
+- [FA State class](https://github.com/DmitrySoshnikov/at-regexp-machine/tree/master/assignments/State.js)
+- [Single character fragment](https://github.com/DmitrySoshnikov/at-regexp-machine/tree/master/assignments/fragments/char.js)
+- [Epsilon fragment](https://github.com/DmitrySoshnikov/at-regexp-machine/tree/master/assignments/fragments/epsilon.js)
